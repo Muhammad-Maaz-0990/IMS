@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\muham\\Desktop\\IMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC09869-CFAE-4366-B6E1-796BADCF77AE}|MDmobile\\MDmobile.csproj|C:\\Users\\muham\\Desktop\\IMS\\mdmobile\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC09869-CFAE-4366-B6E1-796BADCF77AE}|MDmobile\\MDmobile.csproj|solutionrelative:mdmobile\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC09869-CFAE-4366-B6E1-796BADCF77AE}|MDmobile\\MDmobile.csproj|c:\\users\\muham\\desktop\\ims\\mdmobile\\barcodeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC09869-CFAE-4366-B6E1-796BADCF77AE}|MDmobile\\MDmobile.csproj|solutionrelative:mdmobile\\barcodeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC09869-CFAE-4366-B6E1-796BADCF77AE}|MDmobile\\MDmobile.csproj|c:\\users\\muham\\desktop\\ims\\mdmobile\\barcodeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0BC09869-CFAE-4366-B6E1-796BADCF77AE}|MDmobile\\MDmobile.csproj|solutionrelative:mdmobile\\barcodeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC09869-CFAE-4366-B6E1-796BADCF77AE}|MDmobile\\MDmobile.csproj|C:\\Users\\muham\\Desktop\\IMS\\mdmobile\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0BC09869-CFAE-4366-B6E1-796BADCF77AE}|MDmobile\\MDmobile.csproj|solutionrelative:mdmobile\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC09869-CFAE-4366-B6E1-796BADCF77AE}|MDmobile\\MDmobile.csproj|C:\\Users\\muham\\Desktop\\IMS\\mdmobile\\cusledgercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0BC09869-CFAE-4366-B6E1-796BADCF77AE}|MDmobile\\MDmobile.csproj|solutionrelative:mdmobile\\cusledgercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC09869-CFAE-4366-B6E1-796BADCF77AE}|MDmobile\\MDmobile.csproj|C:\\Users\\muham\\Desktop\\IMS\\mdmobile\\main_user_accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC09869-CFAE-4366-B6E1-796BADCF77AE}|MDmobile\\MDmobile.csproj|solutionrelative:mdmobile\\main_user_accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC09869-CFAE-4366-B6E1-796BADCF77AE}|MDmobile\\MDmobile.csproj|C:\\Users\\muham\\Desktop\\IMS\\mdmobile\\main_user_accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0BC09869-CFAE-4366-B6E1-796BADCF77AE}|MDmobile\\MDmobile.csproj|solutionrelative:mdmobile\\main_user_accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC09869-CFAE-4366-B6E1-796BADCF77AE}|MDmobile\\MDmobile.csproj|C:\\Users\\muham\\Desktop\\IMS\\mdmobile\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC09869-CFAE-4366-B6E1-796BADCF77AE}|MDmobile\\MDmobile.csproj|solutionrelative:mdmobile\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC09869-CFAE-4366-B6E1-796BADCF77AE}|MDmobile\\MDmobile.csproj|C:\\Users\\muham\\Desktop\\IMS\\mdmobile\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0BC09869-CFAE-4366-B6E1-796BADCF77AE}|MDmobile\\MDmobile.csproj|solutionrelative:mdmobile\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC09869-CFAE-4366-B6E1-796BADCF77AE}|MDmobile\\MDmobile.csproj|C:\\Users\\muham\\Desktop\\IMS\\mdmobile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC09869-CFAE-4366-B6E1-796BADCF77AE}|MDmobile\\MDmobile.csproj|solutionrelative:mdmobile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC09869-CFAE-4366-B6E1-796BADCF77AE}|MDmobile\\MDmobile.csproj|C:\\Users\\muham\\Desktop\\IMS\\mdmobile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0BC09869-CFAE-4366-B6E1-796BADCF77AE}|MDmobile\\MDmobile.csproj|solutionrelative:mdmobile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC09869-CFAE-4366-B6E1-796BADCF77AE}|MDmobile\\MDmobile.csproj|C:\\Users\\muham\\Desktop\\IMS\\mdmobile\\sql_con.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC09869-CFAE-4366-B6E1-796BADCF77AE}|MDmobile\\MDmobile.csproj|solutionrelative:mdmobile\\sql_con.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BarcodeForm.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\IMS\\MDmobile\\BarcodeForm.cs",
+              "RelativeDocumentMoniker": "MDmobile\\BarcodeForm.cs",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\IMS\\MDmobile\\BarcodeForm.cs",
+              "RelativeToolTip": "MDmobile\\BarcodeForm.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAiwEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T17:26:47.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BarcodeForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\IMS\\MDmobile\\BarcodeForm.cs",
+              "RelativeDocumentMoniker": "MDmobile\\BarcodeForm.cs",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\IMS\\MDmobile\\BarcodeForm.cs [Design]",
+              "RelativeToolTip": "MDmobile\\BarcodeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T16:57:05.092Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "addproduct.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\IMS\\MDmobile\\addproduct.cs",
+              "RelativeDocumentMoniker": "MDmobile\\addproduct.cs",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\IMS\\MDmobile\\addproduct.cs",
+              "RelativeToolTip": "MDmobile\\addproduct.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T16:45:30.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "addproduct.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\IMS\\MDmobile\\addproduct.cs",
+              "RelativeDocumentMoniker": "MDmobile\\addproduct.cs",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\IMS\\MDmobile\\addproduct.cs [Design]",
+              "RelativeToolTip": "MDmobile\\addproduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T16:45:23.327Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "cusledgercs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\IMS\\MDmobile\\cusledgercs.cs",
+              "RelativeDocumentMoniker": "MDmobile\\cusledgercs.cs",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\IMS\\MDmobile\\cusledgercs.cs [Design]",
+              "RelativeToolTip": "MDmobile\\cusledgercs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T16:36:40.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Main_User_Accounts.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\IMS\\MDmobile\\Main_User_Accounts.cs",
+              "RelativeDocumentMoniker": "MDmobile\\Main_User_Accounts.cs",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\IMS\\MDmobile\\Main_User_Accounts.cs",
+              "RelativeToolTip": "MDmobile\\Main_User_Accounts.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAswFsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T16:29:27.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Main_User_Accounts.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\IMS\\MDmobile\\Main_User_Accounts.cs",
+              "RelativeDocumentMoniker": "MDmobile\\Main_User_Accounts.cs",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\IMS\\MDmobile\\Main_User_Accounts.cs [Design]",
+              "RelativeToolTip": "MDmobile\\Main_User_Accounts.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T16:27:04.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "sql_con.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\IMS\\MDmobile\\sql_con.cs",
+              "RelativeDocumentMoniker": "MDmobile\\sql_con.cs",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\IMS\\MDmobile\\sql_con.cs",
+              "RelativeToolTip": "MDmobile\\sql_con.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA0wF8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T14:29:37.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\IMS\\MDmobile\\Dashboard.cs",
+              "RelativeDocumentMoniker": "MDmobile\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\IMS\\MDmobile\\Dashboard.cs",
+              "RelativeToolTip": "MDmobile\\Dashboard.cs",
+              "ViewState": "AgIAAOYAAAAAAAAAAAAIwPkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T18:38:00.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\IMS\\MDmobile\\Dashboard.cs",
+              "RelativeDocumentMoniker": "MDmobile\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\IMS\\MDmobile\\Dashboard.cs [Design]",
+              "RelativeToolTip": "MDmobile\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T18:37:35.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\IMS\\MDmobile\\Form1.cs",
+              "RelativeDocumentMoniker": "MDmobile\\Form1.cs",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\IMS\\MDmobile\\Form1.cs",
+              "RelativeToolTip": "MDmobile\\Form1.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAcwJEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T08:14:16.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\IMS\\MDmobile\\Form1.cs",
+              "RelativeDocumentMoniker": "MDmobile\\Form1.cs",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\IMS\\MDmobile\\Form1.cs [Design]",
+              "RelativeToolTip": "MDmobile\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T08:14:11.634Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

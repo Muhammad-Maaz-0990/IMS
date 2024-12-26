@@ -1,0 +1,754 @@
+C:\Users\Usman\Documents\Visual Studio 2013\Projects\MDmobile\MDmobile\bin\Debug\MDmobile.exe
+C:\Users\Usman\Documents\Visual Studio 2013\Projects\MDmobile\MDmobile\bin\Debug\System.Data.SQLite.dll
+C:\Users\Usman\Documents\Visual Studio 2013\Projects\MDmobile\MDmobile\bin\Debug\MDmobile.exe.config
+C:\Users\Usman\Documents\Visual Studio 2013\Projects\MDmobile\MDmobile\bin\Debug\MDmobile.pdb
+C:\Users\Usman\Documents\Visual Studio 2013\Projects\MDmobile\MDmobile\bin\Debug\EntityFramework.dll
+C:\Users\Usman\Documents\Visual Studio 2013\Projects\MDmobile\MDmobile\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usman\Documents\Visual Studio 2013\Projects\MDmobile\MDmobile\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Usman\Documents\Visual Studio 2013\Projects\MDmobile\MDmobile\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Usman\Documents\Visual Studio 2013\Projects\MDmobile\MDmobile\bin\Debug\EntityFramework.xml
+C:\Users\Usman\Documents\Visual Studio 2013\Projects\MDmobile\MDmobile\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usman\Documents\Visual Studio 2013\Projects\MDmobile\MDmobile\bin\Debug\System.Data.SQLite.xml
+C:\Users\Usman\Documents\Visual Studio 2013\Projects\MDmobile\MDmobile\obj\Debug\MDmobile.addproduct.resources
+C:\Users\Usman\Documents\Visual Studio 2013\Projects\MDmobile\MDmobile\obj\Debug\MDmobile.allproducts.resources
+C:\Users\Usman\Documents\Visual Studio 2013\Projects\MDmobile\MDmobile\obj\Debug\MDmobile.Dashboard.resources
+C:\Users\Usman\Documents\Visual Studio 2013\Projects\MDmobile\MDmobile\obj\Debug\MDmobile.Form1.resources
+C:\Users\Usman\Documents\Visual Studio 2013\Projects\MDmobile\MDmobile\obj\Debug\MDmobile.Properties.Resources.resources
+C:\Users\Usman\Documents\Visual Studio 2013\Projects\MDmobile\MDmobile\obj\Debug\MDmobile.csproj.GenerateResource.Cache
+C:\Users\Usman\Documents\Visual Studio 2013\Projects\MDmobile\MDmobile\obj\Debug\MDmobile.exe
+C:\Users\Usman\Documents\Visual Studio 2013\Projects\MDmobile\MDmobile\obj\Debug\MDmobile.pdb
+C:\Users\Usman\Documents\Visual Studio 2013\Projects\MDmobile\MDmobile\obj\Debug\MDmobile.change.resources
+C:\Users\Usman\Documents\Visual Studio 2013\Projects\MDmobile\MDmobile\obj\Debug\MDmobile.Home.resources
+C:\Users\Usman\Documents\Visual Studio 2013\Projects\MDmobile\MDmobile\obj\Debug\MDmobile.csprojResolveAssemblyReference.cache
+C:\Users\Usman\Documents\Visual Studio 2013\Projects\MDmobile\MDmobile\obj\Debug\MDmobile.Billing.resources
+C:\Users\Usman\Documents\Visual Studio 2013\Projects\MDmobile\MDmobile\obj\Debug\MDmobile.totalbill.resources
+C:\Users\Usman\Documents\Visual Studio 2013\Projects\MDmobile\MDmobile\obj\Debug\MDmobile.addcompany.resources
+F:\MDmobile\MDmobile\bin\Debug\MDmobile.exe.config
+F:\MDmobile\MDmobile\obj\Debug\MDmobile.exe
+F:\MDmobile\MDmobile\obj\Debug\MDmobile.pdb
+F:\MDmobile\MDmobile\bin\Debug\MDmobile.exe
+F:\MDmobile\MDmobile\bin\Debug\MDmobile.pdb
+F:\MDmobile\MDmobile\bin\Debug\EntityFramework.dll
+F:\MDmobile\MDmobile\bin\Debug\EntityFramework.SqlServer.dll
+F:\MDmobile\MDmobile\bin\Debug\System.Data.SQLite.dll
+F:\MDmobile\MDmobile\bin\Debug\System.Data.SQLite.EF6.dll
+F:\MDmobile\MDmobile\bin\Debug\System.Data.SQLite.Linq.dll
+F:\MDmobile\MDmobile\bin\Debug\EntityFramework.xml
+F:\MDmobile\MDmobile\bin\Debug\EntityFramework.SqlServer.xml
+F:\MDmobile\MDmobile\bin\Debug\System.Data.SQLite.xml
+F:\MDmobile\MDmobile\obj\Debug\MDmobile.addcompany.resources
+F:\MDmobile\MDmobile\obj\Debug\MDmobile.addproduct.resources
+F:\MDmobile\MDmobile\obj\Debug\MDmobile.allproducts.resources
+F:\MDmobile\MDmobile\obj\Debug\MDmobile.Billing.resources
+F:\MDmobile\MDmobile\obj\Debug\MDmobile.change.resources
+F:\MDmobile\MDmobile\obj\Debug\MDmobile.Dashboard.resources
+F:\MDmobile\MDmobile\obj\Debug\MDmobile.Form1.resources
+F:\MDmobile\MDmobile\obj\Debug\MDmobile.Home.resources
+F:\MDmobile\MDmobile\obj\Debug\MDmobile.Properties.Resources.resources
+F:\MDmobile\MDmobile\obj\Debug\MDmobile.csproj.GenerateResource.Cache
+F:\MDmobile\MDmobile\obj\Debug\MDmobile.view.resources
+F:\MDmobile\MDmobile\obj\Debug\MDmobile.salereport.resources
+F:\Usman\Projects\Rehan POS Sytem\Source file\MDmobile\MDmobile\bin\Debug\MDmobile.exe.config
+F:\Usman\Projects\Rehan POS Sytem\Source file\MDmobile\MDmobile\bin\Debug\MDmobile.exe.manifest
+F:\Usman\Projects\Rehan POS Sytem\Source file\MDmobile\MDmobile\bin\Debug\MDmobile.application
+F:\Usman\Projects\Rehan POS Sytem\Source file\MDmobile\MDmobile\bin\Debug\MDmobile.exe
+F:\Usman\Projects\Rehan POS Sytem\Source file\MDmobile\MDmobile\bin\Debug\MDmobile.pdb
+F:\Usman\Projects\Rehan POS Sytem\Source file\MDmobile\MDmobile\bin\Debug\AxShockwaveFlashObjects.dll
+F:\Usman\Projects\Rehan POS Sytem\Source file\MDmobile\MDmobile\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Usman\Projects\Rehan POS Sytem\Source file\MDmobile\MDmobile\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Usman\Projects\Rehan POS Sytem\Source file\MDmobile\MDmobile\bin\Debug\CrystalDecisions.Shared.dll
+F:\Usman\Projects\Rehan POS Sytem\Source file\MDmobile\MDmobile\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Usman\Projects\Rehan POS Sytem\Source file\MDmobile\MDmobile\bin\Debug\EntityFramework.dll
+F:\Usman\Projects\Rehan POS Sytem\Source file\MDmobile\MDmobile\bin\Debug\EntityFramework.SqlServer.dll
+F:\Usman\Projects\Rehan POS Sytem\Source file\MDmobile\MDmobile\bin\Debug\Microsoft.CSharp.dll
+F:\Usman\Projects\Rehan POS Sytem\Source file\MDmobile\MDmobile\bin\Debug\System.ComponentModel.DataAnnotations.dll
+F:\Usman\Projects\Rehan POS Sytem\Source file\MDmobile\MDmobile\bin\Debug\System.Data.DataSetExtensions.dll
+F:\Usman\Projects\Rehan POS Sytem\Source file\MDmobile\MDmobile\bin\Debug\System.Data.dll
+F:\Usman\Projects\Rehan POS Sytem\Source file\MDmobile\MDmobile\bin\Debug\System.Data.SQLite.dll
+F:\Usman\Projects\Rehan POS Sytem\Source file\MDmobile\MDmobile\bin\Debug\System.Data.SQLite.EF6.dll
+F:\Usman\Projects\Rehan POS Sytem\Source file\MDmobile\MDmobile\bin\Debug\System.Data.SQLite.Linq.dll
+F:\Usman\Projects\Rehan POS Sytem\Source file\MDmobile\MDmobile\bin\Debug\System.Deployment.dll
+F:\Usman\Projects\Rehan POS Sytem\Source file\MDmobile\MDmobile\bin\Debug\System.dll
+F:\Usman\Projects\Rehan POS Sytem\Source file\MDmobile\MDmobile\bin\Debug\System.Drawing.dll
+F:\Usman\Projects\Rehan POS Sytem\Source file\MDmobile\MDmobile\bin\Debug\System.Web.dll
+F:\Usman\Projects\Rehan POS Sytem\Source file\MDmobile\MDmobile\bin\Debug\System.Web.Services.dll
+F:\Usman\Projects\Rehan POS Sytem\Source file\MDmobile\MDmobile\bin\Debug\System.Windows.Forms.dll
+F:\Usman\Projects\Rehan POS Sytem\Source file\MDmobile\MDmobile\bin\Debug\System.Xml.dll
+F:\Usman\Projects\Rehan POS Sytem\Source file\MDmobile\MDmobile\bin\Debug\System.Xml.Linq.dll
+F:\Usman\Projects\Rehan POS Sytem\Source file\MDmobile\MDmobile\bin\Debug\EntityFramework.xml
+F:\Usman\Projects\Rehan POS Sytem\Source file\MDmobile\MDmobile\bin\Debug\EntityFramework.SqlServer.xml
+F:\Usman\Projects\Rehan POS Sytem\Source file\MDmobile\MDmobile\bin\Debug\System.Data.SQLite.xml
+F:\Usman\Projects\Rehan POS Sytem\Source file\MDmobile\MDmobile\obj\Debug\MDmobile.addcompany.resources
+F:\Usman\Projects\Rehan POS Sytem\Source file\MDmobile\MDmobile\obj\Debug\MDmobile.addproduct.resources
+F:\Usman\Projects\Rehan POS Sytem\Source file\MDmobile\MDmobile\obj\Debug\MDmobile.allproducts.resources
+F:\Usman\Projects\Rehan POS Sytem\Source file\MDmobile\MDmobile\obj\Debug\MDmobile.Billing.resources
+F:\Usman\Projects\Rehan POS Sytem\Source file\MDmobile\MDmobile\obj\Debug\MDmobile.change.resources
+F:\Usman\Projects\Rehan POS Sytem\Source file\MDmobile\MDmobile\obj\Debug\MDmobile.Dashboard.resources
+F:\Usman\Projects\Rehan POS Sytem\Source file\MDmobile\MDmobile\obj\Debug\MDmobile.Form1.resources
+F:\Usman\Projects\Rehan POS Sytem\Source file\MDmobile\MDmobile\obj\Debug\MDmobile.Home.resources
+F:\Usman\Projects\Rehan POS Sytem\Source file\MDmobile\MDmobile\obj\Debug\MDmobile.Properties.Resources.resources
+F:\Usman\Projects\Rehan POS Sytem\Source file\MDmobile\MDmobile\obj\Debug\MDmobile.salereport.resources
+F:\Usman\Projects\Rehan POS Sytem\Source file\MDmobile\MDmobile\obj\Debug\MDmobile.view.resources
+F:\Usman\Projects\Rehan POS Sytem\Source file\MDmobile\MDmobile\obj\Debug\MDmobile.csproj.GenerateResource.Cache
+F:\Usman\Projects\Rehan POS Sytem\Source file\MDmobile\MDmobile\obj\Debug\MDmobile.exe.manifest
+F:\Usman\Projects\Rehan POS Sytem\Source file\MDmobile\MDmobile\obj\Debug\MDmobile.application
+F:\Usman\Projects\Rehan POS Sytem\Source file\MDmobile\MDmobile\obj\Debug\MDmobile.exe
+F:\Usman\Projects\Rehan POS Sytem\Source file\MDmobile\MDmobile\obj\Debug\MDmobile.pdb
+F:\Usman\Projects\Rehan POS Sytem\Source file\MDmobile\MDmobile\obj\Debug\MDmobile.itemsearch.resources
+F:\Sabir\MDmobile\bin\Debug\MDmobile.exe.config
+F:\Sabir\MDmobile\obj\Debug\MDmobile.exe
+F:\Sabir\MDmobile\obj\Debug\MDmobile.pdb
+F:\Sabir\MDmobile\bin\Debug\MDmobile.exe.manifest
+F:\Sabir\MDmobile\bin\Debug\MDmobile.application
+F:\Sabir\MDmobile\bin\Debug\MDmobile.exe
+F:\Sabir\MDmobile\bin\Debug\MDmobile.pdb
+F:\Sabir\MDmobile\bin\Debug\AxShockwaveFlashObjects.dll
+F:\Sabir\MDmobile\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Sabir\MDmobile\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Sabir\MDmobile\bin\Debug\CrystalDecisions.Shared.dll
+F:\Sabir\MDmobile\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Sabir\MDmobile\bin\Debug\EntityFramework.dll
+F:\Sabir\MDmobile\bin\Debug\EntityFramework.SqlServer.dll
+F:\Sabir\MDmobile\bin\Debug\Microsoft.CSharp.dll
+F:\Sabir\MDmobile\bin\Debug\System.ComponentModel.DataAnnotations.dll
+F:\Sabir\MDmobile\bin\Debug\System.Data.DataSetExtensions.dll
+F:\Sabir\MDmobile\bin\Debug\System.Data.dll
+F:\Sabir\MDmobile\bin\Debug\System.Data.SQLite.dll
+F:\Sabir\MDmobile\bin\Debug\System.Data.SQLite.EF6.dll
+F:\Sabir\MDmobile\bin\Debug\System.Data.SQLite.Linq.dll
+F:\Sabir\MDmobile\bin\Debug\System.Deployment.dll
+F:\Sabir\MDmobile\bin\Debug\System.dll
+F:\Sabir\MDmobile\bin\Debug\System.Drawing.dll
+F:\Sabir\MDmobile\bin\Debug\System.Web.dll
+F:\Sabir\MDmobile\bin\Debug\System.Web.Services.dll
+F:\Sabir\MDmobile\bin\Debug\System.Windows.Forms.dll
+F:\Sabir\MDmobile\bin\Debug\System.Xml.dll
+F:\Sabir\MDmobile\bin\Debug\System.Xml.Linq.dll
+F:\Sabir\MDmobile\bin\Debug\EntityFramework.xml
+F:\Sabir\MDmobile\bin\Debug\EntityFramework.SqlServer.xml
+F:\Sabir\MDmobile\bin\Debug\System.Data.SQLite.xml
+F:\Sabir\MDmobile\obj\Debug\MDmobile.addcompany.resources
+F:\Sabir\MDmobile\obj\Debug\MDmobile.addcus.resources
+F:\Sabir\MDmobile\obj\Debug\MDmobile.addproduct.resources
+F:\Sabir\MDmobile\obj\Debug\MDmobile.allproducts.resources
+F:\Sabir\MDmobile\obj\Debug\MDmobile.Billing.resources
+F:\Sabir\MDmobile\obj\Debug\MDmobile.change.resources
+F:\Sabir\MDmobile\obj\Debug\MDmobile.Dashboard.resources
+F:\Sabir\MDmobile\obj\Debug\MDmobile.Form1.resources
+F:\Sabir\MDmobile\obj\Debug\MDmobile.Home.resources
+F:\Sabir\MDmobile\obj\Debug\MDmobile.itemsearch.resources
+F:\Sabir\MDmobile\obj\Debug\MDmobile.Properties.Resources.resources
+F:\Sabir\MDmobile\obj\Debug\MDmobile.salereport.resources
+F:\Sabir\MDmobile\obj\Debug\MDmobile.view.resources
+F:\Sabir\MDmobile\obj\Debug\MDmobile.csproj.GenerateResource.Cache
+F:\Sabir\MDmobile\obj\Debug\MDmobile.exe.manifest
+F:\Sabir\MDmobile\obj\Debug\MDmobile.application
+F:\Sabir\MDmobile\obj\Debug\MDmobile.cusbill.resources
+F:\Sabir\MDmobile\obj\Debug\MDmobile.cusearch.resources
+F:\Sabir\MDmobile\obj\Debug\MDmobile.cusledgercs.resources
+F:\Madni Traders\Source\MDmobile\bin\Debug\MDmobile.exe.config
+F:\Madni Traders\Source\MDmobile\obj\Debug\MDmobile.exe
+F:\Madni Traders\Source\MDmobile\obj\Debug\MDmobile.pdb
+F:\Madni Traders\Source\MDmobile\bin\Debug\MDmobile.exe.manifest
+F:\Madni Traders\Source\MDmobile\bin\Debug\MDmobile.application
+F:\Madni Traders\Source\MDmobile\bin\Debug\MDmobile.exe
+F:\Madni Traders\Source\MDmobile\bin\Debug\MDmobile.pdb
+F:\Madni Traders\Source\MDmobile\bin\Debug\AxShockwaveFlashObjects.dll
+F:\Madni Traders\Source\MDmobile\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Madni Traders\Source\MDmobile\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Madni Traders\Source\MDmobile\bin\Debug\CrystalDecisions.Shared.dll
+F:\Madni Traders\Source\MDmobile\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Madni Traders\Source\MDmobile\bin\Debug\EntityFramework.dll
+F:\Madni Traders\Source\MDmobile\bin\Debug\EntityFramework.SqlServer.dll
+F:\Madni Traders\Source\MDmobile\bin\Debug\Microsoft.CSharp.dll
+F:\Madni Traders\Source\MDmobile\bin\Debug\System.ComponentModel.DataAnnotations.dll
+F:\Madni Traders\Source\MDmobile\bin\Debug\System.Data.DataSetExtensions.dll
+F:\Madni Traders\Source\MDmobile\bin\Debug\System.Data.dll
+F:\Madni Traders\Source\MDmobile\bin\Debug\System.Data.SQLite.dll
+F:\Madni Traders\Source\MDmobile\bin\Debug\System.Data.SQLite.EF6.dll
+F:\Madni Traders\Source\MDmobile\bin\Debug\System.Data.SQLite.Linq.dll
+F:\Madni Traders\Source\MDmobile\bin\Debug\System.Deployment.dll
+F:\Madni Traders\Source\MDmobile\bin\Debug\System.dll
+F:\Madni Traders\Source\MDmobile\bin\Debug\System.Drawing.dll
+F:\Madni Traders\Source\MDmobile\bin\Debug\System.Web.dll
+F:\Madni Traders\Source\MDmobile\bin\Debug\System.Web.Services.dll
+F:\Madni Traders\Source\MDmobile\bin\Debug\System.Windows.Forms.dll
+F:\Madni Traders\Source\MDmobile\bin\Debug\System.Xml.dll
+F:\Madni Traders\Source\MDmobile\bin\Debug\System.Xml.Linq.dll
+F:\Madni Traders\Source\MDmobile\bin\Debug\EntityFramework.xml
+F:\Madni Traders\Source\MDmobile\bin\Debug\EntityFramework.SqlServer.xml
+F:\Madni Traders\Source\MDmobile\bin\Debug\System.Data.SQLite.xml
+F:\Madni Traders\Source\MDmobile\obj\Debug\MDmobile.addcompany.resources
+F:\Madni Traders\Source\MDmobile\obj\Debug\MDmobile.addcus.resources
+F:\Madni Traders\Source\MDmobile\obj\Debug\MDmobile.addproduct.resources
+F:\Madni Traders\Source\MDmobile\obj\Debug\MDmobile.addpurpose.resources
+F:\Madni Traders\Source\MDmobile\obj\Debug\MDmobile.allproducts.resources
+F:\Madni Traders\Source\MDmobile\obj\Debug\MDmobile.Billing.resources
+F:\Madni Traders\Source\MDmobile\obj\Debug\MDmobile.change.resources
+F:\Madni Traders\Source\MDmobile\obj\Debug\MDmobile.cusbill.resources
+F:\Madni Traders\Source\MDmobile\obj\Debug\MDmobile.cusearch.resources
+F:\Madni Traders\Source\MDmobile\obj\Debug\MDmobile.cusledgercs.resources
+F:\Madni Traders\Source\MDmobile\obj\Debug\MDmobile.Dashboard.resources
+F:\Madni Traders\Source\MDmobile\obj\Debug\MDmobile.Form1.resources
+F:\Madni Traders\Source\MDmobile\obj\Debug\MDmobile.Home.resources
+F:\Madni Traders\Source\MDmobile\obj\Debug\MDmobile.itemsearch.resources
+F:\Madni Traders\Source\MDmobile\obj\Debug\MDmobile.Properties.Resources.resources
+F:\Madni Traders\Source\MDmobile\obj\Debug\MDmobile.salereport.resources
+F:\Madni Traders\Source\MDmobile\obj\Debug\MDmobile.view.resources
+F:\Madni Traders\Source\MDmobile\obj\Debug\MDmobile.csproj.GenerateResource.Cache
+F:\Madni Traders\Source\MDmobile\obj\Debug\MDmobile.exe.manifest
+F:\Madni Traders\Source\MDmobile\obj\Debug\MDmobile.application
+F:\Madni Traders\Source\MDmobile\obj\Debug\MDmobile.addexp.resources
+F:\Madni Traders\Source\MDmobile\obj\Debug\MDmobile.addsup.resources
+F:\Madni Traders\Source\MDmobile\obj\Debug\MDmobile.addpitems.resources
+F:\Madni Traders\Source\MDmobile\obj\Debug\MDmobile.supsearch.resources
+F:\Madni Traders\Source\MDmobile\obj\Debug\MDmobile.cuscash.resources
+F:\Madni Traders\Source\MDmobile\obj\Debug\MDmobile.supcash.resources
+F:\Madni Traders\Source\MDmobile\obj\Debug\MDmobile.supledger.resources
+F:\Madni Traders\Source\MDmobile\obj\Debug\MDmobile.salevsexp.resources
+F:\Madni Traders\Source\MDmobile\obj\Debug\MDmobile.editbill.resources
+F:\Madni Traders\Source\MDmobile\obj\Debug\MDmobile.DeleteBill.resources
+F:\Madni Traders\MDmobile\bin\Debug\MDmobile.exe.config
+F:\Madni Traders\MDmobile\obj\Debug\MDmobile.exe
+F:\Madni Traders\MDmobile\obj\Debug\MDmobile.pdb
+F:\Madni Traders\MDmobile\bin\Debug\MDmobile.exe.manifest
+F:\Madni Traders\MDmobile\bin\Debug\MDmobile.application
+F:\Madni Traders\MDmobile\bin\Debug\MDmobile.exe
+F:\Madni Traders\MDmobile\bin\Debug\MDmobile.pdb
+F:\Madni Traders\MDmobile\bin\Debug\AxShockwaveFlashObjects.dll
+F:\Madni Traders\MDmobile\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Madni Traders\MDmobile\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Madni Traders\MDmobile\bin\Debug\CrystalDecisions.Shared.dll
+F:\Madni Traders\MDmobile\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Madni Traders\MDmobile\bin\Debug\EntityFramework.dll
+F:\Madni Traders\MDmobile\bin\Debug\EntityFramework.SqlServer.dll
+F:\Madni Traders\MDmobile\bin\Debug\Microsoft.CSharp.dll
+F:\Madni Traders\MDmobile\bin\Debug\System.ComponentModel.DataAnnotations.dll
+F:\Madni Traders\MDmobile\bin\Debug\System.Data.DataSetExtensions.dll
+F:\Madni Traders\MDmobile\bin\Debug\System.Data.dll
+F:\Madni Traders\MDmobile\bin\Debug\System.Data.SQLite.dll
+F:\Madni Traders\MDmobile\bin\Debug\System.Data.SQLite.EF6.dll
+F:\Madni Traders\MDmobile\bin\Debug\System.Data.SQLite.Linq.dll
+F:\Madni Traders\MDmobile\bin\Debug\System.Deployment.dll
+F:\Madni Traders\MDmobile\bin\Debug\System.dll
+F:\Madni Traders\MDmobile\bin\Debug\System.Drawing.dll
+F:\Madni Traders\MDmobile\bin\Debug\System.Web.dll
+F:\Madni Traders\MDmobile\bin\Debug\System.Web.Services.dll
+F:\Madni Traders\MDmobile\bin\Debug\System.Windows.Forms.dll
+F:\Madni Traders\MDmobile\bin\Debug\System.Xml.dll
+F:\Madni Traders\MDmobile\bin\Debug\System.Xml.Linq.dll
+F:\Madni Traders\MDmobile\bin\Debug\EntityFramework.xml
+F:\Madni Traders\MDmobile\bin\Debug\EntityFramework.SqlServer.xml
+F:\Madni Traders\MDmobile\bin\Debug\System.Data.SQLite.xml
+F:\Madni Traders\MDmobile\obj\Debug\MDmobile.addcompany.resources
+F:\Madni Traders\MDmobile\obj\Debug\MDmobile.addcus.resources
+F:\Madni Traders\MDmobile\obj\Debug\MDmobile.addexp.resources
+F:\Madni Traders\MDmobile\obj\Debug\MDmobile.addpitems.resources
+F:\Madni Traders\MDmobile\obj\Debug\MDmobile.addproduct.resources
+F:\Madni Traders\MDmobile\obj\Debug\MDmobile.addpurpose.resources
+F:\Madni Traders\MDmobile\obj\Debug\MDmobile.addsup.resources
+F:\Madni Traders\MDmobile\obj\Debug\MDmobile.allproducts.resources
+F:\Madni Traders\MDmobile\obj\Debug\MDmobile.Billing.resources
+F:\Madni Traders\MDmobile\obj\Debug\MDmobile.change.resources
+F:\Madni Traders\MDmobile\obj\Debug\MDmobile.cusbill.resources
+F:\Madni Traders\MDmobile\obj\Debug\MDmobile.cuscash.resources
+F:\Madni Traders\MDmobile\obj\Debug\MDmobile.cusearch.resources
+F:\Madni Traders\MDmobile\obj\Debug\MDmobile.cusledgercs.resources
+F:\Madni Traders\MDmobile\obj\Debug\MDmobile.Dashboard.resources
+F:\Madni Traders\MDmobile\obj\Debug\MDmobile.DeleteBill.resources
+F:\Madni Traders\MDmobile\obj\Debug\MDmobile.editbill.resources
+F:\Madni Traders\MDmobile\obj\Debug\MDmobile.Form1.resources
+F:\Madni Traders\MDmobile\obj\Debug\MDmobile.Home.resources
+F:\Madni Traders\MDmobile\obj\Debug\MDmobile.itemsearch.resources
+F:\Madni Traders\MDmobile\obj\Debug\MDmobile.Properties.Resources.resources
+F:\Madni Traders\MDmobile\obj\Debug\MDmobile.salereport.resources
+F:\Madni Traders\MDmobile\obj\Debug\MDmobile.salevsexp.resources
+F:\Madni Traders\MDmobile\obj\Debug\MDmobile.supcash.resources
+F:\Madni Traders\MDmobile\obj\Debug\MDmobile.supledger.resources
+F:\Madni Traders\MDmobile\obj\Debug\MDmobile.supsearch.resources
+F:\Madni Traders\MDmobile\obj\Debug\MDmobile.view.resources
+F:\Madni Traders\MDmobile\obj\Debug\MDmobile.csproj.GenerateResource.Cache
+F:\Madni Traders\MDmobile\obj\Debug\MDmobile.exe.manifest
+F:\Madni Traders\MDmobile\obj\Debug\MDmobile.application
+F:\Madni Traders\MDmobile\obj\Debug\PayrollManagementSystem.animation.resources
+F:\Madni Traders\MDmobile\bin\Debug\Bunifu_UI_v1.52.dll
+F:\Madni Traders\MDmobile\obj\Debug\MDmobile.csprojResolveAssemblyReference.cache
+F:\Madni Traders\MDmobile\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+F:\Madni Traders\MDmobile\obj\Debug\MDmobile.Form2.resources
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\MDmobile.exe.config
+E:\C# Projects\Madni Traders\MDmobile\obj\Debug\MDmobile.addcompany.resources
+E:\C# Projects\Madni Traders\MDmobile\obj\Debug\MDmobile.addcus.resources
+E:\C# Projects\Madni Traders\MDmobile\obj\Debug\MDmobile.addexp.resources
+E:\C# Projects\Madni Traders\MDmobile\obj\Debug\MDmobile.addpitems.resources
+E:\C# Projects\Madni Traders\MDmobile\obj\Debug\MDmobile.addproduct.resources
+E:\C# Projects\Madni Traders\MDmobile\obj\Debug\MDmobile.addpurpose.resources
+E:\C# Projects\Madni Traders\MDmobile\obj\Debug\MDmobile.addsup.resources
+E:\C# Projects\Madni Traders\MDmobile\obj\Debug\MDmobile.allproducts.resources
+E:\C# Projects\Madni Traders\MDmobile\obj\Debug\MDmobile.Billing.resources
+E:\C# Projects\Madni Traders\MDmobile\obj\Debug\MDmobile.change.resources
+E:\C# Projects\Madni Traders\MDmobile\obj\Debug\MDmobile.cusbill.resources
+E:\C# Projects\Madni Traders\MDmobile\obj\Debug\MDmobile.cuscash.resources
+E:\C# Projects\Madni Traders\MDmobile\obj\Debug\MDmobile.cusearch.resources
+E:\C# Projects\Madni Traders\MDmobile\obj\Debug\MDmobile.cusledgercs.resources
+E:\C# Projects\Madni Traders\MDmobile\obj\Debug\MDmobile.Dashboard.resources
+E:\C# Projects\Madni Traders\MDmobile\obj\Debug\MDmobile.DeleteBill.resources
+E:\C# Projects\Madni Traders\MDmobile\obj\Debug\MDmobile.editbill.resources
+E:\C# Projects\Madni Traders\MDmobile\obj\Debug\MDmobile.Form1.resources
+E:\C# Projects\Madni Traders\MDmobile\obj\Debug\MDmobile.Form2.resources
+E:\C# Projects\Madni Traders\MDmobile\obj\Debug\MDmobile.Home.resources
+E:\C# Projects\Madni Traders\MDmobile\obj\Debug\MDmobile.itemsearch.resources
+E:\C# Projects\Madni Traders\MDmobile\obj\Debug\MDmobile.Properties.Resources.resources
+E:\C# Projects\Madni Traders\MDmobile\obj\Debug\MDmobile.salereport.resources
+E:\C# Projects\Madni Traders\MDmobile\obj\Debug\MDmobile.salevsexp.resources
+E:\C# Projects\Madni Traders\MDmobile\obj\Debug\MDmobile.supcash.resources
+E:\C# Projects\Madni Traders\MDmobile\obj\Debug\MDmobile.supledger.resources
+E:\C# Projects\Madni Traders\MDmobile\obj\Debug\MDmobile.supsearch.resources
+E:\C# Projects\Madni Traders\MDmobile\obj\Debug\MDmobile.view.resources
+E:\C# Projects\Madni Traders\MDmobile\obj\Debug\MDmobile.csproj.GenerateResource.Cache
+E:\C# Projects\Madni Traders\MDmobile\obj\Debug\MDmobile.exe
+E:\C# Projects\Madni Traders\MDmobile\obj\Debug\MDmobile.pdb
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\MDmobile.exe.manifest
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\MDmobile.application
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\MDmobile.exe
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\MDmobile.pdb
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\AxShockwaveFlashObjects.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\CrystalDecisions.Shared.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\EntityFramework.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\EntityFramework.SqlServer.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\FlashControlV71.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\log4net.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\Microsoft.CSharp.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\System.ComponentModel.DataAnnotations.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\System.Data.DataSetExtensions.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\System.Data.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\System.Data.SQLite.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\System.Data.SQLite.EF6.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\System.Data.SQLite.Linq.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\System.Deployment.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\System.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\System.Drawing.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\System.Web.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\System.Web.Services.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\System.Windows.Forms.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\System.Xml.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\System.Xml.Linq.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\EntityFramework.xml
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\EntityFramework.SqlServer.xml
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\log4net.xml
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\System.Data.SQLite.xml
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\cs\CrystalDecisions.ReportSource.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\da\CrystalDecisions.ReportSource.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\de\CrystalDecisions.ReportSource.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\en\CrystalDecisions.ReportSource.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\es\CrystalDecisions.ReportSource.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\fi\CrystalDecisions.ReportSource.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\fr\CrystalDecisions.ReportSource.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\hu\CrystalDecisions.ReportSource.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\it\CrystalDecisions.ReportSource.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\ja\CrystalDecisions.ReportSource.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\ko\CrystalDecisions.ReportSource.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\nb-NO\CrystalDecisions.ReportSource.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\nl\CrystalDecisions.ReportSource.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\pl\CrystalDecisions.ReportSource.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\pt\CrystalDecisions.ReportSource.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\ru\CrystalDecisions.ReportSource.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\sk\CrystalDecisions.ReportSource.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\sv\CrystalDecisions.ReportSource.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\th\CrystalDecisions.ReportSource.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\tr\CrystalDecisions.ReportSource.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\zh-CHS\CrystalDecisions.ReportSource.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\zh-CHT\CrystalDecisions.ReportSource.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\cs\CrystalDecisions.Windows.Forms.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\da\CrystalDecisions.Windows.Forms.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\de\CrystalDecisions.Windows.Forms.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\en\CrystalDecisions.Windows.Forms.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\es\CrystalDecisions.Windows.Forms.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\fi\CrystalDecisions.Windows.Forms.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\fr\CrystalDecisions.Windows.Forms.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\hu\CrystalDecisions.Windows.Forms.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\it\CrystalDecisions.Windows.Forms.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\ja\CrystalDecisions.Windows.Forms.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\ko\CrystalDecisions.Windows.Forms.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\nb-NO\CrystalDecisions.Windows.Forms.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\nl\CrystalDecisions.Windows.Forms.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\pl\CrystalDecisions.Windows.Forms.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\pt\CrystalDecisions.Windows.Forms.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\ru\CrystalDecisions.Windows.Forms.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\sk\CrystalDecisions.Windows.Forms.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\sv\CrystalDecisions.Windows.Forms.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\th\CrystalDecisions.Windows.Forms.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\tr\CrystalDecisions.Windows.Forms.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\zh-CHS\CrystalDecisions.Windows.Forms.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\bin\Debug\zh-CHT\CrystalDecisions.Windows.Forms.resources.dll
+E:\C# Projects\Madni Traders\MDmobile\obj\Debug\MDmobile.exe.manifest
+E:\C# Projects\Madni Traders\MDmobile\obj\Debug\MDmobile.application
+H:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.csproj.AssemblyReference.cache
+H:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.addcompany.resources
+H:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.addcus.resources
+H:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.addexp.resources
+H:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.addpitems.resources
+H:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.addproduct.resources
+H:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.addpurpose.resources
+H:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.addsup.resources
+H:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.allproducts.resources
+H:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.Billing.resources
+H:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.change.resources
+H:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.cusbill.resources
+H:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.cuscash.resources
+H:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.cusearch.resources
+H:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.cusledgercs.resources
+H:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.Dashboard.resources
+H:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.DeleteBill.resources
+H:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.editbill.resources
+H:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.Form1.resources
+H:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.Form2.resources
+H:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.Home.resources
+H:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.itemsearch.resources
+H:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.Properties.Resources.resources
+H:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.salereport.resources
+H:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.salevsexp.resources
+H:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.supcash.resources
+H:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.supledger.resources
+H:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.supsearch.resources
+H:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.view.resources
+H:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.csproj.GenerateResource.cache
+H:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.exe
+H:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.pdb
+H:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.UserAccounts.resources
+D:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.csproj.AssemblyReference.cache
+D:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.addcompany.resources
+D:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.addcus.resources
+D:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.addexp.resources
+D:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.addpitems.resources
+D:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.addproduct.resources
+D:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.addpurpose.resources
+D:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.addsup.resources
+D:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.allproducts.resources
+D:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.Billing.resources
+D:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.change.resources
+D:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.cusbill.resources
+D:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.cuscash.resources
+D:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.cusearch.resources
+D:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.cusledgercs.resources
+D:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.Dashboard.resources
+D:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.DeleteBill.resources
+D:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.editbill.resources
+D:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.Form1.resources
+D:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.Form2.resources
+D:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.Home.resources
+D:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.itemsearch.resources
+D:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.Properties.Resources.resources
+D:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.salereport.resources
+D:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.salevsexp.resources
+D:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.supcash.resources
+D:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.supledger.resources
+D:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.supsearch.resources
+D:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.UserAccounts.resources
+D:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.view.resources
+D:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.csproj.GenerateResource.cache
+D:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.exe
+D:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.pdb
+D:\VP-Final\Madni Traders\MDmobile\bin\Debug\MDmobile.exe.config
+D:\VP-Final\Madni Traders\MDmobile\bin\Debug\MDmobile.exe.manifest
+D:\VP-Final\Madni Traders\MDmobile\bin\Debug\MDmobile.application
+D:\VP-Final\Madni Traders\MDmobile\bin\Debug\MDmobile.exe
+D:\VP-Final\Madni Traders\MDmobile\bin\Debug\MDmobile.pdb
+D:\VP-Final\Madni Traders\MDmobile\bin\Debug\AxShockwaveFlashObjects.dll
+D:\VP-Final\Madni Traders\MDmobile\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\VP-Final\Madni Traders\MDmobile\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\VP-Final\Madni Traders\MDmobile\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\VP-Final\Madni Traders\MDmobile\bin\Debug\CrystalDecisions.Shared.dll
+D:\VP-Final\Madni Traders\MDmobile\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\VP-Final\Madni Traders\MDmobile\bin\Debug\EntityFramework.dll
+D:\VP-Final\Madni Traders\MDmobile\bin\Debug\EntityFramework.SqlServer.dll
+D:\VP-Final\Madni Traders\MDmobile\bin\Debug\FlashControlV71.dll
+D:\VP-Final\Madni Traders\MDmobile\bin\Debug\log4net.dll
+D:\VP-Final\Madni Traders\MDmobile\bin\Debug\Microsoft.CSharp.dll
+D:\VP-Final\Madni Traders\MDmobile\bin\Debug\System.ComponentModel.DataAnnotations.dll
+D:\VP-Final\Madni Traders\MDmobile\bin\Debug\System.Data.DataSetExtensions.dll
+D:\VP-Final\Madni Traders\MDmobile\bin\Debug\System.Data.dll
+D:\VP-Final\Madni Traders\MDmobile\bin\Debug\System.Data.SQLite.dll
+D:\VP-Final\Madni Traders\MDmobile\bin\Debug\System.Deployment.dll
+D:\VP-Final\Madni Traders\MDmobile\bin\Debug\System.dll
+D:\VP-Final\Madni Traders\MDmobile\bin\Debug\System.Drawing.dll
+D:\VP-Final\Madni Traders\MDmobile\bin\Debug\System.Web.dll
+D:\VP-Final\Madni Traders\MDmobile\bin\Debug\System.Web.Services.dll
+D:\VP-Final\Madni Traders\MDmobile\bin\Debug\System.Windows.Forms.dll
+D:\VP-Final\Madni Traders\MDmobile\bin\Debug\System.Xml.dll
+D:\VP-Final\Madni Traders\MDmobile\bin\Debug\System.Xml.Linq.dll
+D:\VP-Final\Madni Traders\MDmobile\bin\Debug\EntityFramework.xml
+D:\VP-Final\Madni Traders\MDmobile\bin\Debug\EntityFramework.SqlServer.xml
+D:\VP-Final\Madni Traders\MDmobile\bin\Debug\log4net.xml
+D:\VP-Final\Madni Traders\MDmobile\bin\Debug\System.Data.SQLite.xml
+D:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.csproj.CoreCompileInputs.cache
+D:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.exe.manifest
+D:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.application
+D:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.csproj.Up2Date
+D:\VP-Final\Madni Traders\MDmobile\obj\Debug\MDmobile.Main_User_Accounts.resources
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\obj\Debug\MDmobile.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\obj\Debug\MDmobile.addcompany.resources
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\obj\Debug\MDmobile.addcus.resources
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\obj\Debug\MDmobile.addexp.resources
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\obj\Debug\MDmobile.addpitems.resources
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\obj\Debug\MDmobile.addproduct.resources
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\obj\Debug\MDmobile.addpurpose.resources
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\obj\Debug\MDmobile.addsup.resources
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\obj\Debug\MDmobile.allproducts.resources
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\obj\Debug\MDmobile.Billing.resources
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\obj\Debug\MDmobile.change.resources
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\obj\Debug\MDmobile.cusbill.resources
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\obj\Debug\MDmobile.cuscash.resources
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\obj\Debug\MDmobile.cusearch.resources
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\obj\Debug\MDmobile.cusledgercs.resources
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\obj\Debug\MDmobile.Dashboard.resources
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\obj\Debug\MDmobile.DeleteBill.resources
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\obj\Debug\MDmobile.editbill.resources
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\obj\Debug\MDmobile.Form2.resources
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\obj\Debug\MDmobile.Home.resources
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\obj\Debug\MDmobile.itemsearch.resources
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\obj\Debug\MDmobile.Main_User_Accounts.resources
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\obj\Debug\MDmobile.Properties.Resources.resources
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\obj\Debug\MDmobile.salereport.resources
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\obj\Debug\MDmobile.salevsexp.resources
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\obj\Debug\MDmobile.supcash.resources
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\obj\Debug\MDmobile.supledger.resources
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\obj\Debug\MDmobile.supsearch.resources
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\obj\Debug\MDmobile.UserAccounts.resources
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\obj\Debug\MDmobile.view.resources
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\obj\Debug\MDmobile.csproj.GenerateResource.cache
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\obj\Debug\MDmobile.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\obj\Debug\MDmobile.exe
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\obj\Debug\MDmobile.pdb
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\bin\Debug\MDmobile.exe.config
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\bin\Debug\MDmobile.exe.manifest
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\bin\Debug\MDmobile.application
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\bin\Debug\MDmobile.exe
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\bin\Debug\MDmobile.pdb
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\bin\Debug\EntityFramework.dll
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\bin\Debug\FlashControlV71.dll
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\bin\Debug\log4net.dll
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\bin\Debug\Microsoft.CSharp.dll
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\bin\Debug\System.Data.dll
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\bin\Debug\System.Data.SQLite.dll
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\bin\Debug\System.Deployment.dll
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\bin\Debug\System.dll
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\bin\Debug\System.Drawing.dll
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\bin\Debug\System.Web.dll
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\bin\Debug\System.Web.Services.dll
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\bin\Debug\System.Windows.Forms.dll
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\bin\Debug\System.Xml.dll
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\bin\Debug\System.Xml.Linq.dll
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\bin\Debug\EntityFramework.xml
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\bin\Debug\log4net.xml
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\bin\Debug\System.Data.SQLite.xml
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\obj\Debug\MDmobile.Form1.resources
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\obj\Debug\PayrollManagementSystem.PictureboxButton.resources
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\obj\Debug\MDmobile.Verification_form.resources
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\obj\Debug\MDmobile.exe.manifest
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\obj\Debug\MDmobile.application
+C:\Users\muham\Desktop\Madni Traders - Copy\MDmobile\obj\Debug\MDmobile.csproj.Up2Date
+D:\Madni Traders\MDmobile\bin\Debug\MDmobile.exe.config
+D:\Madni Traders\MDmobile\bin\Debug\MDmobile.exe.manifest
+D:\Madni Traders\MDmobile\bin\Debug\MDmobile.application
+D:\Madni Traders\MDmobile\bin\Debug\MDmobile.exe
+D:\Madni Traders\MDmobile\bin\Debug\MDmobile.pdb
+D:\Madni Traders\MDmobile\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Madni Traders\MDmobile\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Madni Traders\MDmobile\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Madni Traders\MDmobile\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Madni Traders\MDmobile\bin\Debug\CrystalDecisions.Shared.dll
+D:\Madni Traders\MDmobile\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Madni Traders\MDmobile\bin\Debug\EntityFramework.dll
+D:\Madni Traders\MDmobile\bin\Debug\EntityFramework.SqlServer.dll
+D:\Madni Traders\MDmobile\bin\Debug\FlashControlV71.dll
+D:\Madni Traders\MDmobile\bin\Debug\log4net.dll
+D:\Madni Traders\MDmobile\bin\Debug\Microsoft.CSharp.dll
+D:\Madni Traders\MDmobile\bin\Debug\System.ComponentModel.DataAnnotations.dll
+D:\Madni Traders\MDmobile\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Madni Traders\MDmobile\bin\Debug\System.Data.dll
+D:\Madni Traders\MDmobile\bin\Debug\System.Data.SQLite.dll
+D:\Madni Traders\MDmobile\bin\Debug\System.Deployment.dll
+D:\Madni Traders\MDmobile\bin\Debug\System.dll
+D:\Madni Traders\MDmobile\bin\Debug\System.Drawing.dll
+D:\Madni Traders\MDmobile\bin\Debug\System.Web.dll
+D:\Madni Traders\MDmobile\bin\Debug\System.Web.Services.dll
+D:\Madni Traders\MDmobile\bin\Debug\System.Windows.Forms.dll
+D:\Madni Traders\MDmobile\bin\Debug\System.Xml.dll
+D:\Madni Traders\MDmobile\bin\Debug\System.Xml.Linq.dll
+D:\Madni Traders\MDmobile\bin\Debug\EntityFramework.xml
+D:\Madni Traders\MDmobile\bin\Debug\EntityFramework.SqlServer.xml
+D:\Madni Traders\MDmobile\bin\Debug\log4net.xml
+D:\Madni Traders\MDmobile\bin\Debug\System.Data.SQLite.xml
+D:\Madni Traders\MDmobile\obj\Debug\MDmobile.csproj.AssemblyReference.cache
+D:\Madni Traders\MDmobile\obj\Debug\MDmobile.addcompany.resources
+D:\Madni Traders\MDmobile\obj\Debug\MDmobile.addcus.resources
+D:\Madni Traders\MDmobile\obj\Debug\MDmobile.addexp.resources
+D:\Madni Traders\MDmobile\obj\Debug\MDmobile.addpitems.resources
+D:\Madni Traders\MDmobile\obj\Debug\MDmobile.addproduct.resources
+D:\Madni Traders\MDmobile\obj\Debug\MDmobile.addpurpose.resources
+D:\Madni Traders\MDmobile\obj\Debug\MDmobile.addsup.resources
+D:\Madni Traders\MDmobile\obj\Debug\MDmobile.allproducts.resources
+D:\Madni Traders\MDmobile\obj\Debug\MDmobile.Billing.resources
+D:\Madni Traders\MDmobile\obj\Debug\MDmobile.change.resources
+D:\Madni Traders\MDmobile\obj\Debug\MDmobile.cusbill.resources
+D:\Madni Traders\MDmobile\obj\Debug\MDmobile.cuscash.resources
+D:\Madni Traders\MDmobile\obj\Debug\MDmobile.cusearch.resources
+D:\Madni Traders\MDmobile\obj\Debug\MDmobile.cusledgercs.resources
+D:\Madni Traders\MDmobile\obj\Debug\MDmobile.Dashboard.resources
+D:\Madni Traders\MDmobile\obj\Debug\MDmobile.DeleteBill.resources
+D:\Madni Traders\MDmobile\obj\Debug\MDmobile.editbill.resources
+D:\Madni Traders\MDmobile\obj\Debug\MDmobile.Form1.resources
+D:\Madni Traders\MDmobile\obj\Debug\MDmobile.Form2.resources
+D:\Madni Traders\MDmobile\obj\Debug\MDmobile.Home.resources
+D:\Madni Traders\MDmobile\obj\Debug\MDmobile.itemsearch.resources
+D:\Madni Traders\MDmobile\obj\Debug\MDmobile.Main_User_Accounts.resources
+D:\Madni Traders\MDmobile\obj\Debug\PayrollManagementSystem.PictureboxButton.resources
+D:\Madni Traders\MDmobile\obj\Debug\MDmobile.Properties.Resources.resources
+D:\Madni Traders\MDmobile\obj\Debug\MDmobile.salereport.resources
+D:\Madni Traders\MDmobile\obj\Debug\MDmobile.salevsexp.resources
+D:\Madni Traders\MDmobile\obj\Debug\MDmobile.supcash.resources
+D:\Madni Traders\MDmobile\obj\Debug\MDmobile.supledger.resources
+D:\Madni Traders\MDmobile\obj\Debug\MDmobile.supsearch.resources
+D:\Madni Traders\MDmobile\obj\Debug\MDmobile.UserAccounts.resources
+D:\Madni Traders\MDmobile\obj\Debug\MDmobile.Verification_form.resources
+D:\Madni Traders\MDmobile\obj\Debug\MDmobile.view.resources
+D:\Madni Traders\MDmobile\obj\Debug\MDmobile.csproj.GenerateResource.cache
+D:\Madni Traders\MDmobile\obj\Debug\MDmobile.csproj.CoreCompileInputs.cache
+D:\Madni Traders\MDmobile\obj\Debug\MDmobile.exe.manifest
+D:\Madni Traders\MDmobile\obj\Debug\MDmobile.application
+D:\Madni Traders\MDmobile\obj\Debug\MDmobile.csproj.Up2Date
+D:\Madni Traders\MDmobile\obj\Debug\MDmobile.exe
+D:\Madni Traders\MDmobile\obj\Debug\MDmobile.pdb
+C:\Users\muham\Desktop\IMS\MDmobile\bin\Debug\MDmobile.exe.config
+C:\Users\muham\Desktop\IMS\MDmobile\bin\Debug\MDmobile.exe.manifest
+C:\Users\muham\Desktop\IMS\MDmobile\bin\Debug\MDmobile.application
+C:\Users\muham\Desktop\IMS\MDmobile\bin\Debug\MDmobile.exe
+C:\Users\muham\Desktop\IMS\MDmobile\bin\Debug\MDmobile.pdb
+C:\Users\muham\Desktop\IMS\MDmobile\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\muham\Desktop\IMS\MDmobile\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\muham\Desktop\IMS\MDmobile\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\muham\Desktop\IMS\MDmobile\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\muham\Desktop\IMS\MDmobile\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\muham\Desktop\IMS\MDmobile\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\muham\Desktop\IMS\MDmobile\bin\Debug\EntityFramework.dll
+C:\Users\muham\Desktop\IMS\MDmobile\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\muham\Desktop\IMS\MDmobile\bin\Debug\FlashControlV71.dll
+C:\Users\muham\Desktop\IMS\MDmobile\bin\Debug\log4net.dll
+C:\Users\muham\Desktop\IMS\MDmobile\bin\Debug\Microsoft.CSharp.dll
+C:\Users\muham\Desktop\IMS\MDmobile\bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\muham\Desktop\IMS\MDmobile\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\muham\Desktop\IMS\MDmobile\bin\Debug\System.Data.dll
+C:\Users\muham\Desktop\IMS\MDmobile\bin\Debug\System.Data.SQLite.dll
+C:\Users\muham\Desktop\IMS\MDmobile\bin\Debug\System.Deployment.dll
+C:\Users\muham\Desktop\IMS\MDmobile\bin\Debug\System.dll
+C:\Users\muham\Desktop\IMS\MDmobile\bin\Debug\System.Drawing.dll
+C:\Users\muham\Desktop\IMS\MDmobile\bin\Debug\System.Web.dll
+C:\Users\muham\Desktop\IMS\MDmobile\bin\Debug\System.Web.Services.dll
+C:\Users\muham\Desktop\IMS\MDmobile\bin\Debug\System.Windows.Forms.dll
+C:\Users\muham\Desktop\IMS\MDmobile\bin\Debug\System.Xml.dll
+C:\Users\muham\Desktop\IMS\MDmobile\bin\Debug\System.Xml.Linq.dll
+C:\Users\muham\Desktop\IMS\MDmobile\bin\Debug\EntityFramework.xml
+C:\Users\muham\Desktop\IMS\MDmobile\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\muham\Desktop\IMS\MDmobile\bin\Debug\log4net.xml
+C:\Users\muham\Desktop\IMS\MDmobile\bin\Debug\System.Data.SQLite.xml
+C:\Users\muham\Desktop\IMS\MDmobile\obj\Debug\MDmobile.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\IMS\MDmobile\obj\Debug\MDmobile.addcompany.resources
+C:\Users\muham\Desktop\IMS\MDmobile\obj\Debug\MDmobile.addcus.resources
+C:\Users\muham\Desktop\IMS\MDmobile\obj\Debug\MDmobile.addexp.resources
+C:\Users\muham\Desktop\IMS\MDmobile\obj\Debug\MDmobile.addpitems.resources
+C:\Users\muham\Desktop\IMS\MDmobile\obj\Debug\MDmobile.addproduct.resources
+C:\Users\muham\Desktop\IMS\MDmobile\obj\Debug\MDmobile.addpurpose.resources
+C:\Users\muham\Desktop\IMS\MDmobile\obj\Debug\MDmobile.addsup.resources
+C:\Users\muham\Desktop\IMS\MDmobile\obj\Debug\MDmobile.allproducts.resources
+C:\Users\muham\Desktop\IMS\MDmobile\obj\Debug\MDmobile.Billing.resources
+C:\Users\muham\Desktop\IMS\MDmobile\obj\Debug\MDmobile.change.resources
+C:\Users\muham\Desktop\IMS\MDmobile\obj\Debug\MDmobile.cusbill.resources
+C:\Users\muham\Desktop\IMS\MDmobile\obj\Debug\MDmobile.cuscash.resources
+C:\Users\muham\Desktop\IMS\MDmobile\obj\Debug\MDmobile.cusearch.resources
+C:\Users\muham\Desktop\IMS\MDmobile\obj\Debug\MDmobile.cusledgercs.resources
+C:\Users\muham\Desktop\IMS\MDmobile\obj\Debug\MDmobile.Dashboard.resources
+C:\Users\muham\Desktop\IMS\MDmobile\obj\Debug\MDmobile.DeleteBill.resources
+C:\Users\muham\Desktop\IMS\MDmobile\obj\Debug\MDmobile.editbill.resources
+C:\Users\muham\Desktop\IMS\MDmobile\obj\Debug\MDmobile.Form1.resources
+C:\Users\muham\Desktop\IMS\MDmobile\obj\Debug\MDmobile.Form2.resources
+C:\Users\muham\Desktop\IMS\MDmobile\obj\Debug\MDmobile.Home.resources
+C:\Users\muham\Desktop\IMS\MDmobile\obj\Debug\MDmobile.itemsearch.resources
+C:\Users\muham\Desktop\IMS\MDmobile\obj\Debug\MDmobile.Main_User_Accounts.resources
+C:\Users\muham\Desktop\IMS\MDmobile\obj\Debug\PayrollManagementSystem.PictureboxButton.resources
+C:\Users\muham\Desktop\IMS\MDmobile\obj\Debug\MDmobile.Properties.Resources.resources
+C:\Users\muham\Desktop\IMS\MDmobile\obj\Debug\MDmobile.salereport.resources
+C:\Users\muham\Desktop\IMS\MDmobile\obj\Debug\MDmobile.salevsexp.resources
+C:\Users\muham\Desktop\IMS\MDmobile\obj\Debug\MDmobile.supcash.resources
+C:\Users\muham\Desktop\IMS\MDmobile\obj\Debug\MDmobile.supledger.resources
+C:\Users\muham\Desktop\IMS\MDmobile\obj\Debug\MDmobile.supsearch.resources
+C:\Users\muham\Desktop\IMS\MDmobile\obj\Debug\MDmobile.UserAccounts.resources
+C:\Users\muham\Desktop\IMS\MDmobile\obj\Debug\MDmobile.Verification_form.resources
+C:\Users\muham\Desktop\IMS\MDmobile\obj\Debug\MDmobile.view.resources
+C:\Users\muham\Desktop\IMS\MDmobile\obj\Debug\MDmobile.csproj.GenerateResource.cache
+C:\Users\muham\Desktop\IMS\MDmobile\obj\Debug\MDmobile.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\IMS\MDmobile\obj\Debug\MDmobile.exe.manifest
+C:\Users\muham\Desktop\IMS\MDmobile\obj\Debug\MDmobile.application
+C:\Users\muham\Desktop\IMS\MDmobile\obj\Debug\MDmobile.csproj.Up2Date
+C:\Users\muham\Desktop\IMS\MDmobile\obj\Debug\MDmobile.exe
+C:\Users\muham\Desktop\IMS\MDmobile\obj\Debug\MDmobile.pdb
+C:\Users\muham\Desktop\IMS\MDmobile\bin\Debug\zxing.dll
+C:\Users\muham\Desktop\IMS\MDmobile\bin\Debug\zxing.xml
+C:\Users\muham\Desktop\IMS\MDmobile\obj\Debug\MDmobile.BarcodeForm.resources
